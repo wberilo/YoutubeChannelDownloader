@@ -1,1 +1,1 @@
-Downloads 30 most recent videos from a youtube page.
+Downloads the youtube videos shown/linked/referenced in any page. (html or html script)
