@@ -26,4 +26,4 @@ def youtubeDownload(url):
     print("Download completed!!")
 
 
-fetch('https://www.youtube.com/c/briandavidgilbert/videos')
+fetch(input('youtube channel videos page. should look like https://www.youtube.com/user/UserName/videos'))
